@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressesTask", "AddressesTask\AddressesTask.csproj", "{F52F4803-772E-43D8-A0AB-CF6F8548E593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52F4803-772E-43D8-A0AB-CF6F8548E593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52F4803-772E-43D8-A0AB-CF6F8548E593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52F4803-772E-43D8-A0AB-CF6F8548E593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52F4803-772E-43D8-A0AB-CF6F8548E593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BF4B8C8-157D-4243-AB98-6B6C4AC83B31}
+	EndGlobalSection
+EndGlobal

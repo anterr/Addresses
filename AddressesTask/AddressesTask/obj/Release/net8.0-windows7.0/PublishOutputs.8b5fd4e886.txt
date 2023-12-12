@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\AddressesTask\AddressesTask\bin\Release\net8.0-windows7.0\app.publish\AddressesTask.exe
+C:\Users\HP\source\repos\AddressesTask\AddressesTask\bin\Release\net8.0-windows7.0\app.publish\AddressesTask.dll
+C:\Users\HP\source\repos\AddressesTask\AddressesTask\bin\Release\net8.0-windows7.0\app.publish\AddressesTask.deps.json
+C:\Users\HP\source\repos\AddressesTask\AddressesTask\bin\Release\net8.0-windows7.0\app.publish\AddressesTask.runtimeconfig.json
+C:\Users\HP\source\repos\AddressesTask\AddressesTask\bin\Release\net8.0-windows7.0\app.publish\AddressesTask.pdb
